@@ -1,0 +1,77 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+		, "results": [
+		{
+		"name": "Markham",
+		"city": "Markham",
+		"state": "FL",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "32771.11.99999",
+		"l": "/q/zmw:32771.11.99999"
+		}
+		,
+		{
+		"name": "Markham",
+		"city": "Markham",
+		"state": "IL",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "60428.1.99999",
+		"l": "/q/zmw:60428.1.99999"
+		}
+		,
+		{
+		"name": "Markham",
+		"city": "Markham",
+		"state": "ON",
+		"country": "CA",
+		"country_iso3166":"CA",
+		"country_name":"Canada",
+		"zmw": "00000.131.71639",
+		"l": "/q/zmw:00000.131.71639"
+		}
+		,
+		{
+		"name": "Markham",
+		"city": "Markham",
+		"state": "PA",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "19342.11.99999",
+		"l": "/q/zmw:19342.11.99999"
+		}
+		,
+		{
+		"name": "Markham",
+		"city": "Markham",
+		"state": "TX",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "77456.1.99999",
+		"l": "/q/zmw:77456.1.99999"
+		}
+		,
+		{
+		"name": "Markham",
+		"city": "Markham",
+		"state": "VA",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"zmw": "22643.1.99999",
+		"l": "/q/zmw:22643.1.99999"
+		}
+		]
+	}
+}
